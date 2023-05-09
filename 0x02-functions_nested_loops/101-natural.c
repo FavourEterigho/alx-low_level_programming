@@ -1,14 +1,4 @@
-
-101-natural.c CODE
-
-
-/*
-	 * File: 101-natural.c
-	 * Auth: vincent kip
-	 */
-
-
-	#include <stdio.h>
+#include <stdio.h>
 
 
 	/**
@@ -32,4 +22,5 @@
 		printf("%d\n", sum);
 
 
-		return (0); }
+		return (0);
+	}
